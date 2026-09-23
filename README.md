@@ -34,4 +34,3 @@ Abre el navegador en <http://127.0.0.1:8000/productos>.
 - El botón **Editar** apunta a las rutas que debes implementar.
 - Los archivos `esquemas.py`, `repositorio.py` y `vistas.py` contienen
   comentarios `TODO(n)` que indican qué falta en cada paso.
-- La carpeta `solucion/` contiene la implementación completa de referencia.

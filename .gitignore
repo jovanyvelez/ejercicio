@@ -1,0 +1,15 @@
+# Solución del profesor: no se comparte con los estudiantes
+solucion/
+
+# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Configuración local con credenciales
+.env
+
+# Logs
+*.log
